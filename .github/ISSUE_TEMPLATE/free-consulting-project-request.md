@@ -10,12 +10,12 @@ assignees: ''
 Please check if it satisfies the following requirements: 
 
 * It is a small project satisfying a particular scenario
-* It is related to Aspose APIs
+* It is related to GroupDocs APIs
 * It takes 8 or less hours for us to complete
 * It is not a bug
 * It is not a feature request
 
-If your requirement is actually a bug in our APIs or a feature request for our APIs then please use our forum to report it and get quick help: https://forum.aspose.com/
+If your requirement is actually a bug in our APIs or a feature request for our APIs then please use our forum to report it and get quick help: https://forum.groupdocs.com/
 
 If all the above requirements are satisfied then please move on:
 
